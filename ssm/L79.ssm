@@ -1,0 +1,5 @@
+id	name	var_reads	total_reads	var_read_prob
+s0	ATM	1929,1	1929,1929	1.0,1.0
+s1	FANCA	387,323	1105,758	0.5,0.5
+s2	PIK3CA	777,650	2000,2000	0.5,0.5
+s3	BRAF	19,1	260,260	0.5,0.5

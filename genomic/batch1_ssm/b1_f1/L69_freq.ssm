@@ -1,0 +1,5 @@
+id	locus	name	var_reads	total_reads	var_read_prob
+s0	chr17 7577547	TP53	201,1	2000,2000	0.5,0.5
+s1	chr2 47702459	MSH2	147,1	1979,1979	0.5,0.5
+s2	chr2 48033272	MSH6|FBXO11	608,454	3136,2135	0.5,0.5
+s3	chr9 139407441	NOTCH1	1,14	193,193	0.5,0.5

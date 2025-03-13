@@ -1,0 +1,5 @@
+id	name	var_reads	total_reads	var_read_prob
+s0	SMARCB1|DERL3	59,1,1	612,612,612	0.5,0.5,0.5
+s1	BRAF	28,1,41	124,127,130	0.5,0.5,0.5
+s2	PMS2	22,26,118	54,46,264	0.5,0.5,0.5
+s3	CDKN2B-AS1|CDKN2B	8,17,1	141,102,122	0.5,0.5,0.5

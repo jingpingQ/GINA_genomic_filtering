@@ -1,0 +1,2 @@
+id	locus	type	gene	pvalue	ISCN	coverage	VAF
+L67B8Pap	chr19 4117519	SNV	MAP2K2	0.0908970942188802	0	31	6.45
